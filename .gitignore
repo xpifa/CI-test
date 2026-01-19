@@ -15,3 +15,6 @@ ENV/
 # Test coverage
 .coverage
 htmlcov/
+
+# Files
+.DS_Store
